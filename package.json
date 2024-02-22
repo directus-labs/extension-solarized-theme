@@ -3,6 +3,7 @@
 	"description": "Solarized light theme for Directus",
 	"icon": "extension",
 	"version": "1.0.1",
+	"license": "MIT",
 	"keywords": [
 		"directus",
 		"directus-extension",
