@@ -1,5 +1,5 @@
 {
-	"name": "directus-extension-solarized-theme",
+	"name": "@directus-labs/solarized-theme",
 	"description": "Solarized light theme for Directus",
 	"icon": "extension",
 	"version": "1.0.0",
